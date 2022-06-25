@@ -2,4 +2,4 @@
 
 ---
 
-<img src="imagenes/logo-uml.png"alt="UML">
+<img src="https://secretaria.uml.edu.ni/?page_id=207"alt="UML">
