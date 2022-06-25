@@ -2,4 +2,4 @@
 
 ---
 
-<img src="imagenes/img.png"alt="UML">
+<img src="imagenes/logo-uml.png" alt="UML">
